@@ -1,5 +1,7 @@
 # 2021. 3. 16.
 
-data("EuStockMarkets")
+EuStockMarkets
+
+data(EuStockMarkets)
 
 summary(EuStockMarkets)
