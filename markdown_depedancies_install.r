@@ -1,0 +1,17 @@
+install.packages("markdown")
+
+install.packages("base64enc")
+install.packages("digest")
+install.packages("glue")
+install.packages("highr")
+install.packages("htmltools")
+install.packages("jsonlite")
+install.packages("knitr")
+install.packages("magrittr")
+install.packages("rmarkdown")
+install.packages("stringi")
+install.packages("stringr")
+install.packages("tinytex")
+install.packages("yaml")
+
+install.packages("rtools")
